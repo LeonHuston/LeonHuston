@@ -1,4 +1,4 @@
-### Hi there 👋
+# Why Hello there :))
 
 <!--
 **LeonHuston/LeonHuston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a new entrant into this lovely world of software engineering, based in Auckland, New Zealand but open to wherever software takes me.
+
+Currently living in webland at work with some Typescript, React and Golang but most familiar personally with Typescript, React, Python and a little bit of Java. Personally interested in learning some Rust / Compiler / OS stuff
