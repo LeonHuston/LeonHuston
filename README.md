@@ -1,4 +1,4 @@
-# Why Hello there :))
+# Hello
 
 <!--
 **LeonHuston/LeonHuston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a new entrant into this lovely world of software engineering, based in Auckland, New Zealand but open to wherever software takes me.
+I'm a software engineer based in Auckland, New Zealand 
 
-Currently living in backend-land at work with Golang, used to do more frontend stuff with Typescript/React and most familiar personally with Typescript, React, Python and a little bit of Java. Been dabbling with some Rust on the side
+Currently living in backend-land at work with Golang GraphQL services, used to do more frontend stuff with Typescript/React and most familiar personally with Typescript, React and Python. Been dabbling with some Rust on the side
